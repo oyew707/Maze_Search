@@ -33,7 +33,7 @@ click-plugins==1.1.1
 cligj==0.7.1
 cloudpickle==1.4.1
 colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 cymem @ file:///opt/concourse/worker/volumes/live/3e8d7428-f57d-4000-44e7-34ac8a744f13/volume/cymem_1605062299053/work
 cytoolz==0.11.0
