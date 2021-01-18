@@ -2,7 +2,7 @@
 
 ### General Information
 
-Implement several search algorithms and apply them to the given pathfinding scenario. The idea is that there is a "Pacman" agent that needs to find paths through mazes. Used Python to develop the algorithms, whatever you are comfortable with. 
+The idea is that there is a "Pacman" agent that needs to find paths through mazes. Implemented several search algorithms and apply them to the given pathfinding scenario. Using Python we developed the search algorithms and visualization
 
 There is an implementation of the following search algorithms
 
@@ -14,7 +14,7 @@ There is an implementation of the following search algorithms
 
 - A* Heuristic Search
 
-The algorithms can run on a medium or large sized maze and it visualized using a graphics user interface
+The algorithms can run on a medium or large sized maze and it is visualized using Tkinter graphics user interface
 
 For each problem instance and each search algorithm, the GUI shows:
 1. The solution on a red path, the initial point which is the green square, and the destination which is a blue square.
