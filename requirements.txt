@@ -14,7 +14,7 @@ attrs @ file:///tmp/build/80754af9/attrs_1604765588209/work
 Babel @ file:///tmp/build/80754af9/babel_1607110387436/work
 backcall==0.2.0
 beautifulsoup4 @ file:///opt/concourse/worker/volumes/live/9cd727c3-c151-4a12-63ef-40a66317ce6b/volume/beautifulsoup4_1605302270072/work
-bleach==3.1.5
+bleach==3.3.0
 blis @ file:///opt/concourse/worker/volumes/live/cd6a6bea-d063-4b62-4c10-fcc89b17d0ac/volume/cython-blis_1594246851083/work
 bokeh @ file:///opt/concourse/worker/volumes/live/4dce277b-856c-418f-50a0-50eb18d48058/volume/bokeh_1593187628308/work
 boto==2.49.0
