@@ -41,7 +41,7 @@ dask @ file:///tmp/build/80754af9/dask-core_1592842333140/work
 decorator==4.4.2
 defusedxml==0.6.0
 descartes==1.1.0
-Django==3.0.8
+Django==3.1.6
 docutils==0.15.2
 docx2txt==0.8
 EbookLib==0.17.1
