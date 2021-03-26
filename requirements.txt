@@ -170,7 +170,7 @@ python-dateutil==2.8.1
 python-pptx==0.6.18
 pytz==2020.1
 PyWavelets @ file:///opt/concourse/worker/volumes/live/4c8a2af4-1e43-4df6-4c7a-c73342176802/volume/pywavelets_1601658329224/work
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.1
 QtAwesome @ file:///tmp/build/80754af9/qtawesome_1602272867890/work
 qtconsole @ file:///tmp/build/80754af9/qtconsole_1592848611704/work
