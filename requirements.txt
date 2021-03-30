@@ -156,7 +156,7 @@ pycparser==2.20
 pycryptodome==3.9.8
 pyflakes==2.2.0
 pygame==1.9.6
-Pygments==2.6.1
+Pygments==2.7.4
 PyJWT==1.7.1
 pylint @ file:///opt/concourse/worker/volumes/live/9eebf2dc-3c74-4778-701c-c55b13929def/volume/pylint_1598624018844/work
 PyMuPDF==1.18.3
