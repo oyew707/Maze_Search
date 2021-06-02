@@ -233,7 +233,7 @@ typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1592847887441/w
 tzlocal==1.5.1
 ujson @ file:///opt/concourse/worker/volumes/live/689249ee-e8db-4ac6-59d6-84d404905c09/volume/ujson_1602523336695/work
 uritemplate==3.0.1
-urllib3==1.25.9
+urllib3==1.26.5
 vincent==0.4.4
 wasabi @ file:///tmp/build/80754af9/wasabi_1599244993840/work
 wcwidth==0.2.4
