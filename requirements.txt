@@ -139,7 +139,7 @@ patsy==0.5.1
 pdfminer.six==20181108
 pexpect==4.8.0
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==7.1.2
+Pillow==8.2.0
 plac @ file:///opt/concourse/worker/volumes/live/52c78438-45d9-4d63-4838-52a0b185385f/volume/plac_1594261919082/work
 plotly==4.5.4
 preshed @ file:///opt/concourse/worker/volumes/live/952fa955-acc7-4aa0-6766-86f802ea8ef1/volume/preshed_1608233410312/work
