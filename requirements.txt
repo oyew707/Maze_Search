@@ -145,7 +145,7 @@ plotly==4.5.4
 preshed @ file:///opt/concourse/worker/volumes/live/952fa955-acc7-4aa0-6766-86f802ea8ef1/volume/preshed_1608233410312/work
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
-protobuf==3.12.3
+protobuf==3.15.0
 psutil @ file:///opt/concourse/worker/volumes/live/abb7a219-3a4a-4ff9-4158-148060faae29/volume/psutil_1598370243710/work
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pyaml==20.4.0
