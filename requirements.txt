@@ -111,7 +111,7 @@ MarkupSafe==1.1.1
 matplotlib @ file:///opt/concourse/worker/volumes/live/34dd81d3-0a70-4e5e-5ad6-be36ca7e59f7/volume/matplotlib-base_1592846084794/work
 mccabe==0.6.1
 memory-profiler==0.58.0
-mistune==0.8.4
+mistune==2.0.3
 more-itertools==8.4.0
 mpmath==1.1.0
 mrjob==0.7.3
