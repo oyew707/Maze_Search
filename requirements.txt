@@ -121,7 +121,7 @@ munch==2.5.0
 murmurhash @ file:///opt/concourse/worker/volumes/live/9a0582f9-9097-4dab-6d7a-fcf62b4968ae/volume/murmurhash_1607456116622/work
 nb-conda==2.2.1
 nb-conda-kernels==2.2.3
-nbconvert==5.6.1
+nbconvert==6.3.0
 nbformat==5.0.7
 networkx @ file:///tmp/build/80754af9/networkx_1598376031484/work
 nltk @ file:///tmp/build/80754af9/nltk_1592496090529/work
