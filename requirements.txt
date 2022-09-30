@@ -88,7 +88,7 @@ jdcal==1.4.1
 jedi @ file:///opt/concourse/worker/volumes/live/114a62c0-dd60-4a40-6382-85abb31b5f6e/volume/jedi_1592841953086/work
 Jinja2==2.11.2
 jmespath @ file:///tmp/build/80754af9/jmespath_1594304593830/work
-joblib==0.15.1
+joblib==1.2.0
 json5==0.9.5
 jsonschema==3.0.2
 jupyter==1.0.0
