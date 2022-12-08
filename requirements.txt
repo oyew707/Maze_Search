@@ -24,7 +24,7 @@ branca==0.3.1
 brotlipy==0.7.0
 cachetools @ file:///tmp/build/80754af9/cachetools_1607706694405/work
 catalogue==1.0.0
-certifi==2020.12.5
+certifi==2022.12.7
 cffi==1.14.0
 chardet @ file:///opt/concourse/worker/volumes/live/92aa0fea-cec8-43da-4d77-2574e78c5981/volume/chardet_1605303181342/work
 chart-studio==1.0.0
